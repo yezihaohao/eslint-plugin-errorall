@@ -1,0 +1,23 @@
+{
+  "name": "eslint-plugin-errorall",
+  "version": "1.0.0",
+  "description": "eslint plugin overwrites defaultSeverity warn to error",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "main": "./index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "jest": "^24.9.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "author": "yezihaohao",
+  "license": "MIT"
+}
